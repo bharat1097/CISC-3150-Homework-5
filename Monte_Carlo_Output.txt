@@ -1,0 +1,20 @@
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Bharat's PC>cd C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 5\src
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 5\src>javac MonteCarlo.java
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 5\src>java MonteCarlo
+Dots that hit the circle: 3141605307
+Dots that hit the square: 858394693
+Ratio of areas (PI/4) = 0.78540132675
+The estimated value of PI = 4 X (PI/4): 3.141605307
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 5\src>java MonteCarlo
+Dots that hit the circle: 3141569111
+Dots that hit the square: 858430889
+Ratio of areas (PI/4) = 0.78539227775
+The estimated value of PI = 4 X (PI/4): 3.141569111
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 5\src>
